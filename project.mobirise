@@ -50,7 +50,7 @@
     "siteUrl": "http://www.bionica.club",
     "robotsText": "User-agent: *\nDisallow: /project.mobirise\nSitemap: https://bionica.club/sitemap.xml\nHost: https://bionica.club\n\n\n\n",
     "robotsSwitcher": "on",
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": "",
     "sitemapSwitcher": "on"
   },
   "pages": {
