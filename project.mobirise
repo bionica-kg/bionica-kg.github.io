@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bionica",
-    "currentPage": "protein-vodorosli-sredstva-pohydenia.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-133449011-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-133449011-1');\r\n</script>\r\n",
     "globalfooter": "",
     "seo-meta": "Средство для похудения в Бишкеке Киргизия Bionica. Маски для лица. Маски для волос. Обертывания",
-    "siteUrl": "http://www.bionica.club/",
+    "siteUrl": "http://www.bionica.club",
     "robotsText": "User-agent: *\nDisallow: /project.mobirise\nSitemap: https://bionica.club/sitemap.xml\nHost: https://bionica.club\n\n\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
