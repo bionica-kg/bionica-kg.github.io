@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bionica",
-    "currentPage": "masky-vodorosli-yhod-kozhei-licha.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,7 +50,7 @@
     "siteUrl": "http://www.bionica.club",
     "robotsText": "User-agent: *\nDisallow: /project.mobirise\nSitemap: https://bionica.club/sitemap.xml\nHost: https://bionica.club\n\n\n\n\n",
     "robotsSwitcher": "on",
-    "sitemapSwitcherAuto": "",
+    "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on"
   },
   "pages": {
