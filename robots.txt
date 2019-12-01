@@ -1,7 +1,9 @@
 User-agent: *
 Disallow: /project.mobirise
-Sitemap: https://bionica.club/sitemap.xml
-Host: https://bionica.club
+Sitemap: http://www.bionica.club/sitemap.xml
+Host: www.bionica.club
+
+
 
 
 
